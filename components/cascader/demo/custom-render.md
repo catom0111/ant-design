@@ -1,7 +1,7 @@
 ---
 order: 7
 title:
-  zh-CN: 自定义已选项
+  zh-CN: 新疆维吾尔族自治区
   en-US: Custom render
 ---
 
